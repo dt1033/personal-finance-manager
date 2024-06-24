@@ -4,31 +4,24 @@ The Personal Finance Manager is a cross-platform desktop application designed to
 
 Key Features:
 User Authentication:
-
 Secure login and registration system to ensure user data privacy.
 Password encryption for enhanced security.
 Dashboard:
-
 An intuitive overview of the user's financial status, including total income, expenses, and savings.
 A summary of recent transactions for quick insights into financial activity.
 Income and Expense Tracking:
-
 Easy-to-use forms for adding, editing, and deleting income and expense entries.
 Categorization of transactions (e.g., food, transportation, salary) for better organization and analysis.
 Reports:
-
 Generation of detailed financial reports, including monthly, quarterly, and yearly summaries.
 Visual representation of data through charts and graphs to help users understand their spending patterns and financial trends.
 Budgeting:
-
 Ability to set monthly budget limits for different categories.
 Alerts and notifications for overspending to help users stay within their budget.
 Data Export/Import:
-
 Export financial data to CSV format for backup or further analysis in other tools.
 Import data from CSV files, allowing users to easily migrate data from other applications or spreadsheets.
 Cross-Platform Support:
-
 The application is designed to run seamlessly on multiple platforms, including Windows, macOS, and Linux, providing users with flexibility and accessibility.
 Technical Details:
 Programming Language: C++
